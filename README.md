@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Prabasss
 - 👀 I’m interested in coding, designing and pentesting
 - 🌱 I’m currently learning computer science.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..
 - 😄 Pronouns: he/ him
 - ⚡ Fun fact: Debugging: being the detective in a crime movie where you're also the murderer. 
 
